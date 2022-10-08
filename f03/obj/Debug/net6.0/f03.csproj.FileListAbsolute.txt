@@ -1,0 +1,15 @@
+C:\repo\examples\f03\bin\Debug\net6.0\f03.exe
+C:\repo\examples\f03\bin\Debug\net6.0\f03.deps.json
+C:\repo\examples\f03\bin\Debug\net6.0\f03.runtimeconfig.json
+C:\repo\examples\f03\bin\Debug\net6.0\f03.dll
+C:\repo\examples\f03\bin\Debug\net6.0\f03.pdb
+C:\repo\examples\f03\obj\Debug\net6.0\f03.csproj.AssemblyReference.cache
+C:\repo\examples\f03\obj\Debug\net6.0\f03.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\examples\f03\obj\Debug\net6.0\f03.AssemblyInfoInputs.cache
+C:\repo\examples\f03\obj\Debug\net6.0\f03.AssemblyInfo.cs
+C:\repo\examples\f03\obj\Debug\net6.0\f03.csproj.CoreCompileInputs.cache
+C:\repo\examples\f03\obj\Debug\net6.0\f03.dll
+C:\repo\examples\f03\obj\Debug\net6.0\refint\f03.dll
+C:\repo\examples\f03\obj\Debug\net6.0\f03.pdb
+C:\repo\examples\f03\obj\Debug\net6.0\f03.genruntimeconfig.cache
+C:\repo\examples\f03\obj\Debug\net6.0\ref\f03.dll
